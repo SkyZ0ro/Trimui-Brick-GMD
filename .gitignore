@@ -1,0 +1,3 @@
+# Игнорировать файлы .DS_Store (MacOS)
+.DS_Store
+*/**/.DS_Store
