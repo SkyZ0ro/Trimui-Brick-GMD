@@ -1,4 +1,4 @@
-# GMD.pak для Trimui Brick для NextUI
+# GMD.pak для Trimui Brick.
 
 ## Русская версия
 
@@ -6,6 +6,10 @@
 - 🎮 **Ядро Genesis-Plus-GX**: Основано на форке [Genesis-Plus-GX-PUNCHiUM](https://github.com/pav1388/Genesis-Plus-GX-PUNCHiUM) с поддержкой знаменитой игры PUNCHiUM 😊
 - 🔊 **Поддержка MD-MSU**: Расширенный аудиоформат для улучшения звука в играх
 - 🚀 **Оптимизация для NextUI**: Специальная сборка с учётом особенностей прошивки Trimui Brick NextUI
+
+### Совместимость
+- 💡 **Только для NextUI**: Данный пакет совместим исключительно с прошивкой NextUI
+- 🕹️ **Устройство**: Trimui Brick
 
 ### Установка
 1. Скопируйте папку `GMD.pak` в `/Emus/tg5040/` на SD-карте
@@ -42,6 +46,10 @@ Sega Genesis → [Игра]
 - 🎮 **Genesis-Plus-GX Core**: Based on [Genesis-Plus-GX-PUNCHiUM](https://github.com/pav1388/Genesis-Plus-GX-PUNCHiUM) fork with support for legendary PUNCHiUM game 😊
 - 🔊 **MD-MSU Support**: Enhanced audio format for better game sound
 - 🚀 **NextUI Optimization**: Special build tailored for Trimui Brick NextUI firmware
+
+### Compatibility
+- 💡 **NextUI ONLY**: This package is compatible only with NextUI firmware
+- 🕹️ **Device**: Trimui Brick
 
 ### Installation
 1. Copy `GMD.pak` folder to `/Emus/tg5040/` on SD card
