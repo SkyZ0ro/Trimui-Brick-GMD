@@ -12,15 +12,15 @@
 - 🕹️ **Устройство**: Trimui Brick
 
 ### Установка
-1. Скопируйте папку `GMD.pak` в `/Emus/tg5040/` на SD-карте
-2. Поместите ROM-файлы (.md/.gen .zip/ .chd) в `/Roms/Sega Genesis (GMD)/`
+1. Скопируйте папку `SMSU.pak` в `/Emus/tg5040/` на SD-карте
+2. Поместите ROM-файлы (.md/.gen .zip/ .chd) в `/Roms/Sega MSU-MD (SMSU)/`
 3. Структура SD-карты:
    ```
-   /Emus/tg5040/GMD.pak/
+   /Emus/tg5040/SMSU.pak/
      ├── default.cfg
      ├── genesis_plus_gx_libretro.so  # Основное ядро эмулятора
      └── launch.sh
-   /Roms/Sega Genesis (GMD)/          # ROM-файлы игр
+   /Roms/Sega MSU-MD (SMSU)/          # ROM-файлы игр
    ```
 4. Перезагрузите приставку
 
@@ -52,15 +52,15 @@ Sega Genesis → [Игра]
 - 🕹️ **Device**: Trimui Brick
 
 ### Installation
-1. Copy `GMD.pak` folder to `/Emus/tg5040/` on SD card
-2. Place ROM files (.md/.gen .zip/ .chd) in `/Roms/Sega Genesis (GMD)/`
+1. Copy `SMSU.pak` folder to `/Emus/tg5040/` on SD card
+2. Place ROM files (.md/.gen .zip/ .chd) in `/Roms/Sega MSU-MD (SMSU)/`
 3. SD card structure:
    ```
-   /Emus/tg5040/GMD.pak/
+   /Emus/tg5040/SMSU.pak/
      ├── default.cfg
      ├── genesis_plus_gx_libretro.so  # Core emulator kernel
      └── launch.sh
-   /Roms/Sega Genesis (GMD)/          # Game ROMs
+   /Roms/Sega MSU-MD (SMSU)/          # Game ROMs
    ```
 4. Reboot device
 
