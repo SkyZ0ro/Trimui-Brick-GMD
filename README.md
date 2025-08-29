@@ -1,4 +1,4 @@
-# GMD.pak для Trimui Brick.
+# SMSU.pak для Trimui Brick.
 
 ## Русская версия
 
