@@ -1,5 +1,5 @@
 {
-  "name": "SMSU.pak",
+  "name": "SMSU",
   "version": "v1.1.0",
   "type": "EMU",
   "description": "Genesis-Plus-GX (PUNCHiUM) core with MD-MSU support for Trimui Brick NextUI.",
@@ -16,5 +16,6 @@
     "tg5040"
   ]
 }
+
 
 
