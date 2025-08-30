@@ -1,12 +1,13 @@
 {
   "name": "SMSU",
-  "version": "v1.1.0",
+  "version": "v1.1.1",
   "type": "EMU",
   "description": "Genesis-Plus-GX (PUNCHiUM) core with MD-MSU support for Trimui Brick NextUI.",
   "author": "SkyZ0ro",
   "repo_url": "https://github.com/SkyZ0ro/Trimui-Brick-GMD",
   "release_filename": "SMSU.pak.zip",
   "changelog": {
+    "v1.1.1": "Fixed pak.json name: removed .pak extension as requested by GitHub feedback.",
     "v1.1.0": "Renamed GMD.pak to SMSU.pak, updated ROM folder name and README, added QR code.",
     "v1.0.0": "Initial release."
   },
